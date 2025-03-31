@@ -68,7 +68,7 @@ TITANIC_PREDICTION_SERVICE/
 - **Endpoint:** `POST /titanic_sync`
 - **Request Body:**
   ```json
-    {\"data\": [3, \'male\', 22.0, 7.25, 0, 0, \'S\']}
+    {\"data\": [3, \"male\", 22.0, 7.25, 0, 0, \"S\"]}
   ```
 - **Response:**
   ```json
